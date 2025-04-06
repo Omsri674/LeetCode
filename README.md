@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omsri674/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omsri674/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Omsri674/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Omsri674/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Omsri674/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
