@@ -36,9 +36,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Omsri674/LeetCode/tree/master/0002-add-two-numbers) |
 | [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omsri674/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omsri674/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
