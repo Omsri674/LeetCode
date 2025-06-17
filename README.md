@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omsri674/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omsri674/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Hash Table
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Omsri674/LeetCode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omsri674/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omsri674/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
