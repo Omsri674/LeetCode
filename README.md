@@ -14,17 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Omsri674/LeetCode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Omsri674/LeetCode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2689-rearranging-fruits](https://github.com/Omsri674/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omsri674/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Omsri674/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Omsri674/LeetCode/tree/master/0013-roman-to-integer) |
+| [2689-rearranging-fruits](https://github.com/Omsri674/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omsri674/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Omsri674/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2689-rearranging-fruits](https://github.com/Omsri674/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Omsri674/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Omsri674/LeetCode/tree/master/0027-remove-element) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/Omsri674/LeetCode/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
